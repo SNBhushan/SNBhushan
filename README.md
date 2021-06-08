@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SNBhushan
 - 👀 I’m interested in exploring versatile concepts.
 - 🌱 I have completed Data Science programme.
-- 💞️ I’m looking to collaborate on Data sscience projects and other.
+- 💞️ I’m looking to collaborate on Data science projects and other.
 - 📫 How to reach me bhushnaduvinamani@gmail.com
 
 <!---
